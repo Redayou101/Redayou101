@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Redha! 👋
 
-<!--
-**Redayou101/Redayou101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 I'm a student from Saudi Arabia.
+- 💻 Currently learning Programming and exploring GitHub.
+- 🎯 My goal is to become a professional developer.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=Redayou101&show_icons=true&theme=radical)
