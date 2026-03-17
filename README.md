@@ -36,7 +36,11 @@ I'm a passionate **High School Student** from 🇸🇦 Saudi Arabia, dedicated t
 
 ### 📊 My GitHub Universe
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redayou101&show_icons=true&theme=tokyonight&count_private=true" alt="Redha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Redayou101&show_icons=true&theme=dracula&bg_color=020617&title_color=c5a059&icon_color=c5a059&text_color=ffffff&border_color=c5a059" alt="Redha's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redayou101&theme=dracula&background=020617&ring=c5a059&fire=c5a059&currStreakLabel=c5a059" alt="Redha's Streak" />
 </p>
 
 <p align="center">
